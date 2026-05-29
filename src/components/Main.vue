@@ -25,7 +25,7 @@ import BusinessAreas from './BusinessAreas.vue'
     <main class="relative flex flex-col lg:flex-row items-center justify-between min-h-[85vh] px-6 lg:px-16 py-12">
       
       <div class="w-full lg:w-1/2 space-y-8 z-10">
-        <h1 class="text-6xl lg:text-8xl font-extrabold text-[#002855] tracking-tight drop-shadow-md">
+        <h1 class="text-5xl md:text-6xl lg:text-8xl font-extrabold text-[#002855] tracking-tight drop-shadow-md">
           회사소개서
         </h1>
         <h2 class="text-3xl lg:text-4xl font-bold text-gray-800">

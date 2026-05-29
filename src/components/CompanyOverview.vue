@@ -61,7 +61,7 @@
               <div class="w-14 h-14 bg-white rounded-full flex items-center justify-center text-2xl shadow-sm text-blue-600">📍</div>
               <div>
                 <p class="text-sm text-gray-400 font-bold mb-1">본사</p>
-                <p class="text-base font-bold text-gray-800">인천광역시 연수구 원인재로 212, 402동 203호</p>
+                <p class="text-base font-bold text-gray-800 break-keep leading-snug">인천광역시 연수구 원인재로 212, 402동 203호</p>
               </div>
             </div>
 
@@ -69,7 +69,7 @@
               <div class="w-14 h-14 bg-white rounded-full flex items-center justify-center text-2xl shadow-sm text-blue-600">🏭</div>
               <div>
                 <p class="text-sm text-gray-400 font-bold mb-1">항공기 MRO사업부</p>
-                <p class="text-base font-bold text-gray-800">충청남도 태안군 남면 곰섬로 236-49, 한서대학교 태안캠퍼스 창업보육센터 3관 102호</p>
+                <p class="text-base font-bold text-gray-800 break-keep leading-snug">충청남도 태안군 남면 곰섬로 236-49, 한서대학교 태안캠퍼스 창업보육센터 3관 102호</p>
               </div>
             </div>
 
